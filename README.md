@@ -3,7 +3,7 @@
 It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll)
 into a static site whenever I push this repository to GitHub.
 
-I want to have my work experience, ideas, some intresting articles, some 
+I want to have my work experience, ideas, some interesting articles, some 
 markdown documents and memo saving in this site.
 
 ## License
