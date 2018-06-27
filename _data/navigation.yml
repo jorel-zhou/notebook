@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://junzhou.ml/
   - title: "Notebook"
-    url: https://junzhou.ml/notebook/
+    url: https://junzhou.ml/notebook/workbook/
   - title: "Article"
     url: https://junzhou.ml/article/
   - title: "Docs"
