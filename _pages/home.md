@@ -7,7 +7,7 @@ header:
   cta_label: # "<i class='fas fa-download'></i> Install Now"
   cta_url: # "/notebook/workbook/"
   caption:
-excerpt: 'A personal site for saving stuff such as notebook, intresting article and some reference doc, etc.'
+excerpt: 'A personal site for saving stuff such as notebook, interesting article and some reference doc, etc.'
 # feature_row:
 #   - image_path: /assets/images/mm-customizable-feature.png
 #     alt: "customizable"

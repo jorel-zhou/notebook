@@ -1,7 +1,7 @@
 ---
-title: "Workbook"
-permalink: /notebook/workbook/
-excerpt: "Workbook for saving experience of work"
+title: "Cloud Computing Knowledge Map"
+permalink: /notebook/cloud-compupting-knowledge-map/
+excerpt: "Cloud Computing Knowledge Map"
 last_modified_at: 2018-06-27T21:20:49-04:00
 redirect_from:
   - /theme-setup/

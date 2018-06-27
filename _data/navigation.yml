@@ -3,10 +3,22 @@ main:
   - title: "Home"
     url: https://junzhou.ml/
   - title: "Notebook"
-    url: https://junzhou.ml/notebook/workbook/
+    url: https://junzhou.ml/notebook/cloud-compupting-knowledge-map/
   - title: "Article"
     url: https://junzhou.ml/article/
   - title: "Docs"
     url: https://junzhou.ml/docs/
   - title: "Memo"
     url: https://junzhou.ml/memo/
+
+notebook:
+  - title: Workbook
+    children:
+      - title: "Cloud Computing Knowledge Map"
+        url: /notebook/cloud-compupting-knowledge-map/
+      - title: "Compute"
+        url: /notebook/compute/
+      - title: "Network"
+        url: /notebook/network/
+      - title: "Storage"
+        url: /notebook/storage/
