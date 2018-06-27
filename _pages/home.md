@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner-welcome-to-our-home.jpeg
   cta_label: # "<i class='fas fa-download'></i> Install Now"
-  cta_url: "/notebook/workbook/"
+  cta_url: # "/notebook/workbook/"
   caption:
 excerpt: 'A personal site for saving stuff such as notebook, intresting article and some reference doc, etc.'
 # feature_row:
