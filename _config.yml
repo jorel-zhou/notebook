@@ -14,7 +14,7 @@ locale                   : "zh-CN"
 title                    : "EVN Soft"
 title_separator          : "-"
 name                     : &name "Jun Zhou" # &name is a YAML anchor which can be *referenced later
-description              : &description "一个不想修路造桥的IT老坑的空间."
+description              : &description "一个久离铺路造桥的IT老坑的空间."
 url                      : https://junzhou.ml
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "jorel-zhou/jorel-zhou.github.io"
