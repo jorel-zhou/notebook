@@ -3,34 +3,34 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/banner/lion_banner.png
   actions:
-    - label: "<i class='fas fa-download'></i> 开始游览"
+    - label: "<i class='fas fa-arrow-right'></i> 开始游览"
       url: "/docs/quick-start-guide/"
 excerpt: >
   一个不想修路造桥的IT老坑的空间.<br />
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+  - image_path: /assets/encouragement/insistence.png
+    # alt: "坚持"
+    # title: "坚持"
+    # excerpt: ""
     url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    # btn_class: "btn--primary"
+    # btn_label: "坚持"
+  - image_path: /assets/encouragement/earnest.png
+    # alt: "认真"
+    # title: "认真"
+    # excerpt: ""
     url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    # btn_class: "btn--primary"
+    # btn_label: "认真"
+  - image_path: /assets/encouragement/outstanding.png
+    # alt: "优秀"
+    # title: "优秀"
+    # excerpt: ""
     url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    # btn_class: "btn--primary"
+    # btn_label: "优秀"      
 ---
 
 {% include feature_row %}

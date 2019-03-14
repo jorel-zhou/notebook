@@ -20,6 +20,8 @@ foo:
 
 # main links
 main:
+  - title: "主页"
+    url: /index.html
   - title: "Scrum"
     url: /docs/quick-start-guide/
   - title: "云计算"
