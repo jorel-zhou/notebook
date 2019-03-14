@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/banner/lion_banner.png
   actions:
-    - label: "<i class='fas fa-arrow-right'></i> 开始游览"
+    - label: "<i class='fas fa-arrow-right'></i> 了解一下"
       url: "/docs/quick-start-guide/"
 excerpt: >
   一个久离铺路造桥的IT老坑的空间.<br />
