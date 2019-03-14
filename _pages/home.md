@@ -8,7 +8,7 @@ header:
     - label: "<i class='fas fa-arrow-right'></i> 开始游览"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  一个不想修路造桥的IT老坑的空间.<br />
+  一个久离铺路造桥的IT老坑的空间.<br />
 feature_row:
   - image_path: /assets/encouragement/insistence.png
     # alt: "坚持"
