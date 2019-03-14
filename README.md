@@ -8,11 +8,5 @@ markdown documents and memo saving in this site.
 
 ## License
 
-The following directories and their contents are Copyright Jun Zhou.
-You may not reuse anything therein without my permission:
-
-* \_posts/
-* images/
-
-All other directories and files are MIT Licensed. Many thanks to Michael Rose who
+All directories and files are MIT Licensed. Many thanks to Michael Rose who
 created a great jekyll theme [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes).
