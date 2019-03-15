@@ -110,61 +110,46 @@ author:
   bio              : "一个不想修路造桥的IT老坑."
   location         : "上海"
   links:
-    - label: "Jorel Zhou"
-      icon: "fas fa-fw fa-link"
-      url: "https://junzhou.ml"
-    - label: "QQ"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://qq.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jorel-zhou"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/mmistakes"
-
-    links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-envelope fa-sm"
       url: mailto:jorel_zhou@outlook.com
     - label: "博客"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-blog fa-sm"
       url: "https://junzhou.ml"
     - label: "QQ"
-      icon: "fab fa-qq fa-3x"
+      icon: "fab fa-qq fa-sm"
       url: "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=47113324&website=www.oicqzone.com"
     - label: "Jorel_Zhou"
-      icon: "fab fa-weixin fa-3x</i>"
+      icon: "fab fa-weixin fa-sm"
       url: "https://wx.qq.com/"
     - label: "微博"
-      icon: "fab fa-weibo fa-3x"
+      icon: "fab fa-weibo fa-sm"
       url: "https://weibo.com/5385746638"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github-alt fa-sm"
       url: "https://github.com/jorel-zhou"
 
 
 # Site Footer
 footer:
   links:
-    links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-envelope fa-lg"
       url: mailto:jorel_zhou@outlook.com
     - label: "博客"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-blog fa-lg"
       url: "https://junzhou.ml"
     - label: "QQ"
-      icon: "fab fa-qq fa-3x"
+      icon: "fab fa-qq fa-lg"
       url: "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=47113324&website=www.oicqzone.com"
     - label: "Jorel_Zhou"
-      icon: "fab fa-weixin fa-3x</i>"
+      icon: "fab fa-weixin fa-lg"
       url: "https://wx.qq.com/"
     - label: "微博"
-      icon: "fab fa-weibo fa-3x"
+      icon: "fab fa-weibo fa-lg"
       url: "https://weibo.com/5385746638"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github-alt fa-lg"
       url: "https://github.com/jorel-zhou"
 
 
