@@ -123,19 +123,49 @@ author:
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/mmistakes"
 
+    links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:jorel_zhou@outlook.com
+    - label: "博客"
+      icon: "fas fa-fw fa-link"
+      url: "https://junzhou.ml"
+    - label: "QQ"
+      icon: "fab fa-qq fa-3x"
+      url: "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=47113324&website=www.oicqzone.com"
+    - label: "Jorel_Zhou"
+      icon: "fab fa-weixin fa-3x</i>"
+      url: "https://wx.qq.com/"
+    - label: "微博"
+      icon: "fab fa-weibo fa-3x"
+      url: "https://weibo.com/5385746638"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jorel-zhou"
+
 
 # Site Footer
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/mmistakes"
+    links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:jorel_zhou@outlook.com
+    - label: "博客"
+      icon: "fas fa-fw fa-link"
+      url: "https://junzhou.ml"
+    - label: "QQ"
+      icon: "fab fa-qq fa-3x"
+      url: "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=47113324&website=www.oicqzone.com"
+    - label: "Jorel_Zhou"
+      icon: "fab fa-weixin fa-3x</i>"
+      url: "https://wx.qq.com/"
+    - label: "微博"
+      icon: "fab fa-weibo fa-3x"
+      url: "https://weibo.com/5385746638"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jorel-zhou"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/mmistakes"
 
 
 # Reading Files
