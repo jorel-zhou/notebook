@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/banner/lion_banner.png
   actions:
     - label: "<i class='fas fa-arrow-right'></i> 了解一下"
-      url: "/docs/quick-start-guide/"
+      url: "/about/"
 excerpt: >
   一个久离铺路造桥的IT老坑的空间.<br />
 feature_row:
