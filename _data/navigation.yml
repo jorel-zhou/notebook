@@ -1,137 +1,86 @@
-# example navigation
-foo:
-  - title: "Parent Link 1"
-    url: /parent-1-page-url/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-  - title: "Parent Link 2"
-    url: /parent-2-page-url/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-      - title: "Child Link 3"
-        url: /child-3-page-url/
-
-
 # main links
 main:
   - title: "主页"
     url: /index.html
-  - title: "Scrum"
-    url: /docs/quick-start-guide/
-  - title: "云计算"
-    url: /about/
-  - title: "DevOps"
+  - title: "领域经验"
+    url: /domains/scrum-evaluation/
+  - title: "备忘录"
+    url: /memo/linux-performance/
+  - title: "博客"
     url: /year-archive/
-  - title: "架构"
-    url: /collection-archive/
-  - title: "人工智能"
-    url: /terms/
+  - title: "探讨"
+    url: /explore/explore-life/
   - title: "关于我"
-    url: /me/
+    url: /about/
 
 
 # documentation links
-docs:
-  - title: Getting Started
+domains:
+  - title: Scrum
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
+      - title: "Scrum里的估算"
+        url: /domains/scrum-evaluation/
+      - title: "Scrum Master的困难"
+        url: /domains/comming-soon/
+      - title: "Velocity到底有什么用"
+        url: /domains/comming-soon/
+      - title: "Scrum Master的沟通"
+        url: /domains/comming-soon/
+  - title: 云计算
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-  - title: Content
+      - title: "IAAS中物理机操作系统的自动化安装"
+        url: /domains/comming-soon/
+      - title: "PXE是个什么鬼"
+        url: /domains/comming-soon/
+      - title: "NFSRoot到底是个什么鬼"
+        url: /domains/comming-soon/
+      - title: "网络自动化 - Netconf"
+        url: /domains/comming-soon/
+      - title: "网络自动化 - F5 Loadbalancer"
+        url: /domains/comming-soon/
+      - title: "网络自动化 - Checkpoint DBedit"
+        url: /domains/comming-soon/
+  - title: DevOps
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-  - title: Extras
+      - title: "Jenkins Pipeline真的好吗"
+        url: /domains/comming-soon/
+      - title: "SSL TLSv1.2和Ciphere的前世今生"
+        url: /domains/comming-soon/
+      - title: "Microservice对DevOps的挑战"
+        url: /domains/comming-soon/
+      - title: "Linux系统限制 - ulimit"
+        url: /domains/comming-soon/
+      - title: "DevOps的团队结构"
+        url: /domains/comming-soon/
+      - title: "关于SVN的一场战争"
+        url: /domains/comming-soon/
+  - title: 架构
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
-  - title: Meta
+      - title: "RESTful API设计实践"
+        url: /domains/comming-soon/
+      - title: "微服务"
+        url: /domains/comming-soon/
+  - title: 人工智能
     children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
+      - title: "线性回归"
+        url: /domains/comming-soon/
+      - title: "逻辑回归"
+        url: /domains/comming-soon/
+      - title: "代价函数"
+        url: /domains/comming-soon/
+      - title: "梯度下降"
+        url: /domains/comming-soon/
+      - title: "正规方程"
+        url: /domains/comming-soon/
 
-# sidebar navigation list sample
-sidebar-sample:
-  - title: "Parent Page A"
+memo:
+  - title: Linux系统管理
     children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Parent Page B"
-    children:
-      - title: "Child Page B1"
-        url: /
-      - title: "Child Page B2"
-        url: /
-      - title: "Child Page B3"
-        url: /
-      - title: "Child Page B4"
-        url: /
-      - title: "Child Page B5"
-        url: /
-  - title: "Parent Page C"
-    children:
-      - title: "Child Page C1"
-        url: /
-      - title: "Child Page C2"
-        url: /
-      - title: "Child Page C3"
-        url: /
-      - title: "Child Page C4"
-        url: /
-      - title: "Child Page C5"
-        url: /
-  - title: "Parent Page D"
-    children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /
+      - title: "性能监控"
+        url: /memo/linux-performance/
+      - title: "SSL证书"
+        url: /memo/linux-performance/
+      - title: "Velocity到底有什么用"
+        url: /memo/linux-performance/
+      - title: "Scrum Master的沟通"
+        url: /memo/linux-performance/

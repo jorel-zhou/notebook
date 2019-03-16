@@ -11,7 +11,7 @@ jorel_zhou_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", 
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "EVN Soft"
+title                    : "v空"
 title_separator          : "-"
 name                     : &name "Jun Zhou" # &name is a YAML anchor which can be *referenced later
 description              : &description "一个久离铺路造桥的IT老坑的空间."
@@ -210,18 +210,25 @@ kramdown:
 
 # Collections
 collections:
-  docs:
+  domains:
     output: true
     permalink: /:collection/:path/
-  recipes:
+  memo:
     output: true
     permalink: /:collection/:path/
-  pets:
+  explore:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+
+  # recipes:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # pets:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,10 +251,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
+  # _domains
   - scope:
-      path: ""
-      type: docs
+      path: "_domains"
+      type: domains
     values:
       layout: single
       read_time: false
@@ -255,33 +262,55 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "docs"
-  # _recipes
+        nav: "domains"
+  # memo
   - scope:
-      path: ""
-      type: recipes
+      path: "_memo"
+      type: memo
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
+      read_time: false
       author_profile: false
-      share: true
+      share: false
+      comments: false
+      sidebar:
+        nav: "memo"
+  # explore
+  - scope:
+      path: "_explore"
+      type: explore
+    values:
+      layout: single
+      read_time: true
+      author_profile: true
+      share: false
+      comments: false
+  # # _recipes
+  # - scope:
+  #     path: ""
+  #     type: recipes
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _pets
+  # - scope:
+  #     path: ""
+  #     type: pets
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: false
+  #     share: true
 
 
 # Sass/SCSS
