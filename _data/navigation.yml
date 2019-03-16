@@ -44,7 +44,7 @@ domains:
     children:
       - title: "Jenkins Pipeline真的好吗"
         url: /domains/comming-soon/
-      - title: "SSL TLSv1.2和Ciphere的前世今生"
+      - title: "SSL/TLS和Cipher安全银弹？"
         url: /domains/comming-soon/
       - title: "Microservice对DevOps的挑战"
         url: /domains/comming-soon/
