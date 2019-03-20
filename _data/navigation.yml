@@ -29,7 +29,7 @@ domains:
   - title: 云计算
     children:
       - title: "IAAS中物理机操作系统的自动化安装"
-        url: /domains/comming-soon/
+        url: /domains/cloud-os-installation-iaas/
       - title: "PXE是个什么鬼"
         url: /domains/comming-soon/
       - title: "NFSRoot到底是个什么鬼"
