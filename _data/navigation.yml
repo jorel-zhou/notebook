@@ -5,7 +5,7 @@ main:
   - title: "领域经验"
     url: /domains/scrum-evaluation/
   - title: "备忘录"
-    url: /memo/linux-performance/
+    url: /memo/memo-cli-cheetsheet/
   - title: "博客"
     url: /year-archive/
   - title: "探讨"
@@ -30,8 +30,6 @@ domains:
     children:
       - title: "IAAS中物理机操作系统的自动化安装"
         url: /domains/cloud-os-installation-iaas/
-      - title: "PXE是个什么鬼"
-        url: /domains/comming-soon/
       - title: "NFSRoot到底是个什么鬼"
         url: /domains/comming-soon/
       - title: "网络自动化 - Netconf"
@@ -76,7 +74,5 @@ domains:
 memo:
   - title: Linux系统管理
     children:
-      - title: "性能监控"
-        url: /memo/linux-performance/
-      - title: "SSL证书"
-        url: /memo/linux-performance/
+      - title: "CLI Cheetsheet"
+        url: /memo/memo-cli-cheetsheet/
