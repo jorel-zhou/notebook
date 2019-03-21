@@ -8,15 +8,6 @@ redirect_from:
 toc: true
 ---
 
-# CLI Cheat Sheet
-
-# Index
-1. [Certificate CLIs](#certificate-clis)
-2. [Linux Server Network](#linux-server-network)
-3. [Linux Server Performance Tunning](#linux-server-performance-tunning)
-3. [Database Management](#database-management)
-    * [PostgreSQL](#postgresql)
-
 # Certificate CLIs
 ### basic keytool operation
 ```bash
