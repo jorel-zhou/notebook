@@ -58,6 +58,8 @@ domains:
         url: /domains/comming-soon/
       - title: "微服务"
         url: /domains/comming-soon/
+      - title: "EA On a Page"
+        url: /assets/pdf/Enterprise_Architecture_on_a_Page_v1.3.pdf
   - title: 人工智能
     children:
       - title: "线性回归"
