@@ -14,7 +14,7 @@ toc: true
 ### ulimit命令详解
 ulimit为Linux系统内核参数, 其作用主要是限制每个用户所能够使用的设备资源情况，在某用户被创建时Linux系统就为此设置了用户ulimit的默认值，如下为RHEL6系统默认设置(不同Linux发布版不尽相同):
 
-![ulimit]({{ '/assets/domains/ulimit.png | relative_url }})
+![ulimit]({{ "/assets/domains/ulimit.png" | relative_url }})
 
 ```
 ulimit [-SHacdefilmnpqrstuvx]
