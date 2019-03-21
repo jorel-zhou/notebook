@@ -47,7 +47,7 @@ domains:
       - title: "Microservice对DevOps的挑战"
         url: /domains/comming-soon/
       - title: "Linux系统限制 - ulimit"
-        url: /domains/comming-soon/
+        url: /domains/devops-ulimit/
       - title: "DevOps的团队结构"
         url: /domains/comming-soon/
       - title: "关于SVN的一场战争"
