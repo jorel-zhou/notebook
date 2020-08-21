@@ -15,7 +15,7 @@ title                    : "v空"
 title_separator          : "-"
 name                     : &name "Jun Zhou" # &name is a YAML anchor which can be *referenced later
 description              : &description "一个久离铺路造桥的IT老坑的空间."
-url                      : https://evnsoft.com
+url                      : https://junzhou.site
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "jorel-zhou/jorel-zhou.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -138,7 +138,7 @@ footer:
       url: mailto:jorel_zhou@outlook.com
     - label: "博客"
       icon: "fas fa-blog fa-lg"
-      url: "https://evnsoft.com"
+      url: "https://junzhou.site"
     - label: "QQ"
       icon: "fab fa-qq fa-lg"
       url: "tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=47113324&website=www.oicqzone.com"
